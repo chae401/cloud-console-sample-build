@@ -24,4 +24,4 @@ images:
 - 'REGION-docker.pkg.dev/$PROJECT_ID/docker-repo/helloworld-image:$COMMIT_SHA'
 
 options:
-  logging: NONE
+  logging: CLOUD_LOGGING_ONLY
